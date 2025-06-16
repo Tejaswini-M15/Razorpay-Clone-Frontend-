@@ -1,4 +1,4 @@
-![Feature Section-2](https://github.com/user-attachments/assets/b0fc5a31-8a8b-400e-8754-6adf806ba2db)# 🚀 Razorpay Clone (Frontend)
+# 🚀 Razorpay Clone (Frontend)
 ![Tailwind CSS](https://img.shields.io/badge/Styled_with-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Built with Vite](https://img.shields.io/badge/Bundled_with-Vite-646CFF?style=for-the-badge&logo=vite)
 
