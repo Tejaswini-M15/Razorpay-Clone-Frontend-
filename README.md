@@ -1,4 +1,4 @@
-# 🚀 Razorpay Clone (Frontend)
+![Feature Section-2](https://github.com/user-attachments/assets/b0fc5a31-8a8b-400e-8754-6adf806ba2db)# 🚀 Razorpay Clone (Frontend)
 ![Tailwind CSS](https://img.shields.io/badge/Styled_with-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Built with Vite](https://img.shields.io/badge/Bundled_with-Vite-646CFF?style=for-the-badge&logo=vite)
 
@@ -9,6 +9,22 @@ A high-fidelity, responsive frontend clone of the official Razorpay homepage. Bu
 > ✨ A full-featured UI replica inspired by Razorpay’s homepage. Includes all major sections: Navbar, Hero, Features, Banking Suite, CTA, Footer, and more — with responsive breakpoints.
 ---
 
+## 📷 Screenshots
+
+### 🖥️ Desktop View:
+![Navbar](https://github.com/user-attachments/assets/2c019676-e8b3-432d-bc17-cf69c7aa9be8)
+![Hero Section](https://github.com/user-attachments/assets/0daec683-ef54-4191-ac38-c757ff902173)
+![Feature Section-1](https://github.com/user-attachments/assets/8f33b5a3-d47e-415b-86a7-67d383559e36)
+![Feature Section-1 1](https://github.com/user-attachments/assets/3cfab0e5-c06e-4a8c-9b6f-77ef2778fad2)
+![Feature Section-2](https://github.com/user-attachments/assets/b24f5818-d4a2-469d-a516-26e6a039ffa0)
+![Feature Section-2 1](https://github.com/user-attachments/assets/13bf2c00-bdfe-4ba3-9cdb-26b6015d40fb)
+![New features](https://github.com/user-attachments/assets/826abf64-b60f-428a-a541-d5bcd9fd106c)
+![Core features](https://github.com/user-attachments/assets/7ccd2fd5-5a07-40dc-8d69-70c6c70e6cea)
+![Join razorpay section](https://github.com/user-attachments/assets/8aa4e9f1-b9e8-4045-93ee-324802e44610)
+![Testimonail Section](https://github.com/user-attachments/assets/458215a4-ed96-4fcf-b083-abd2cc6d7b08)
+![CTA](https://github.com/user-attachments/assets/63c0cbaa-b87f-445c-bdb3-39f6a4f70305)
+![Footer](https://github.com/user-attachments/assets/fe47381e-389f-495c-a93c-bedea016c961)
+![Footer -1](https://github.com/user-attachments/assets/366973fb-95b9-4cf7-9884-04532e1590f1)
 
 ## 🎥 Project Demo
 
