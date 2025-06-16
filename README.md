@@ -13,7 +13,7 @@ A high-fidelity, responsive frontend clone of the official Razorpay homepage. Bu
 
 ### 🖥️ Desktop View:
 ![Navbar](https://github.com/user-attachments/assets/2c019676-e8b3-432d-bc17-cf69c7aa9be8)
-![Hero Section](https://github.com/user-attachments/assets/0daec683-ef54-4191-ac38-c757ff902173)
+![Hero Section](https://github.com/user-attachments/assets/b15724f8-6194-4e09-a8fe-9eefd334dd06)
 ![Feature Section-1](https://github.com/user-attachments/assets/8f33b5a3-d47e-415b-86a7-67d383559e36)
 ![Feature Section-1 1](https://github.com/user-attachments/assets/3cfab0e5-c06e-4a8c-9b6f-77ef2778fad2)
 ![Feature Section-2](https://github.com/user-attachments/assets/b24f5818-d4a2-469d-a516-26e6a039ffa0)
