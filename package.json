@@ -6,12 +6,15 @@
     "start": "vite",
     "build": "vite build"
   },
-  "keywords": [ ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "feather": "^0.0.5",
     "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
   }
 }
